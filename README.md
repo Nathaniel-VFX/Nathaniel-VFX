@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nathaniel-VFX
+- 👀 I’m interested in discord.js & 3D & VFX...
+- 🌱 I’m currently learning python.
+- 📫 Contact me on Discord: Nathaniel VFX#6321
