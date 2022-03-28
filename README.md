@@ -6,8 +6,12 @@
 
 ### Enjoy using
 - After Effects
+- Premiere Pro
 - Blender
 - Wondershare Filmora
+- Cinema 4D
+- Substance Painter
+- Marmoset Toolbag
 - nodejs
 - html
 - css
