@@ -2,7 +2,7 @@
 - I’m interested in nodejs & 3D & VFX...
 - I am Discord.js bot developer
 - I’m currently learning Unity, C# and more about JavaScript & PHP
-- Contact me on Discord: Nathaniel VFX#6321
+- Contact me on Discord: Nathaniel#8080
 ---
 ### Enjoy using
 - After Effects
